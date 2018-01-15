@@ -58,5 +58,5 @@ Take a picture of some text and and press play to activate text-to-speech.
 * **Zachary Anderson** - *Frontend* - [ZachaRuba](https://github.com/ZachaRuba)
 * **Håvard Estensen** - *Google Cloud Vision* - [estensen](https://github.com/estensen)
 * **Kristian Jensen** - *Backend, IBM Watson* - [HoboKristian](https://github.com/HoboKristian)
-* **Charissa Sukontasukkul** - *Design*
+* **Charissa Sukontasukkul** - *Design* - [charissamaple](https://github.com/charissamaple)
 * **Josh Vocal** - *Frontend* - [joshvocal](https://github.com/joshvocal)
